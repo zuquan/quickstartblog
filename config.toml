@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Head-up & Look"
-theme = "ananke"
+theme = "hugo-nuo"
